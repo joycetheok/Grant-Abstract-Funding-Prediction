@@ -13,4 +13,12 @@ Hello and welcome to the Git repository
     - `grants.csv` a .csv file that contains all the scraped grants.  Includes title, contributors, abstracts, etc. and includes English, French and a small amount of unknown language/empty abstract languages.
     - `english_grants.csv` grants.csv but with only English entries. **We will be using this .csv file primarily**.
 
+The following scripts are in this repo:
+- Joyce's
+    - `code.ipynb`
+    - `language_filtering.ipynb`
+- Unu's
+    - `LDA-category.ipynb`
+    - `tfidf-category.ipynb`
+
 ## Instructions
