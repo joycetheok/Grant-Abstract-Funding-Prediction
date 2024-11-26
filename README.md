@@ -20,5 +20,6 @@ The following scripts are in this repo:
 - Unu's
     - `LDA-category.ipynb`
     - `tfidf-category.ipynb`
+    - `lda3.ipynb`
 
 ## Instructions
