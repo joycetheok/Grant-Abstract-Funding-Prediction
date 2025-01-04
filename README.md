@@ -1,8 +1,8 @@
-# Predicting Research Funding from Grant Proposal Abstracts
- 
-Hello and welcome to the Git repository
+Hello and welcome to the Git repository of our research paper "Predicting Research Funding from Grant Proposal Abstracts."
 
-## Directory
+## 📂 Directory
+- **Research Paper**:  `Final Paper.pdf`
+- **Presentation Slides**:  `Presentation.pptx`
 
 - data:  the folder that contains all the .csv files.
     - data chunks:  grants.csv but in chunks.
@@ -21,5 +21,3 @@ The following scripts are in this repo:
     - `LDA-category.ipynb`
     - `tfidf-category.ipynb`
     - `lda3.ipynb`
-
-## Instructions
